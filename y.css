@@ -1,0 +1,286 @@
+#u{
+    position: absolute;
+    width: 1510px;
+    height:450px;
+}
+#h{
+    color: #d3cccc;
+    position: absolute;
+    width: 590px;
+    height:120px;
+    left:490px;
+    top: 120px;
+    font-size: 20px;
+    
+    
+}
+#m{
+    background-color: antiquewhite;
+    color: brown;
+    top:0%;
+    width:100px;
+    position: absolute;
+    left:20px;
+}
+#a{
+    background-color: antiquewhite;
+    color: brown;
+    width: 100px;
+    left:330px;
+    top:0%;
+    position: absolute;
+}
+#c{
+    background-color: antiquewhite;
+    color: brown;
+    width: 100px;
+    left:790px;
+    top:0%;
+    position: absolute;
+}
+#b{
+
+ left: 1220px;
+    background-color: antiquewhite;
+    color: brown;
+    width: 100px;
+    top:0%;
+    position: absolute;
+}
+h2{
+    position: absolute;
+    left:550px;
+    top: 250px;
+    color: rgb(241, 232, 236);
+}
+#d{
+    position: absolute;
+    left:500px;
+    top: 300px;
+    color: rgb(13, 12, 13);
+    padding: 15px;
+    width:550px;
+    text-align: left;
+    height: 20px;
+    background-color: aliceblue;
+}
+#e{
+    position: absolute;
+    left:500px;
+    top: 329px;
+    color: rgb(13, 12, 13);
+    background-color: aliceblue;
+}
+#f{
+    position: absolute;
+    left:795px;
+    top: 340px;
+    color: rgb(13, 12, 13);
+    background-color: aliceblue;
+    border-left: 2px solid;
+}
+#g{
+    position: absolute;
+    left:820px;
+    top: 338px;
+    background-color: aliceblue;
+    width: 180px;
+    height: 20px;
+}
+.ju{
+    position: absolute;
+    top:500px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}   
+#s{
+    left: 450px;
+}
+#t{
+    left:700px;
+}
+#z{
+    left:950px;
+}
+.q{
+    position: absolute;
+    border-radius: 10px;
+    height: 40px;
+    width:200px;
+}
+p{
+    background-color: rgb(248, 250, 251);
+    color: black;
+    left:450px;
+    top:650px;
+    font-size: 20px;
+}
+h3{
+    background-color: rgb(248, 250, 251);
+    color: black;
+    left:700px;
+    top:650px;
+    font-size: 20px;
+}
+h4{
+    background-color: rgb(248, 250, 251);
+    color: black;
+    left:950px;
+    top:650px;
+    font-size: 20px;
+}
+.v{
+    position: absolute;
+    border-radius: 1px;
+    height: 1px;
+    width:10px;
+}
+#i{
+    color:black;
+    position: absolute;
+    font-size:30px;
+    left:290px;
+    top: 690px;
+    
+}
+#io{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:320px;
+    top: 820px;
+    color: black;
+}
+#ei{
+    width: 200px;
+    height:30px;
+    position: absolute;
+    text-align: center;
+    left:320px;
+    top: 920px;
+    color: black;
+   
+}
+#ie{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:320px;
+    top: 1020px;
+    color: black;
+   
+}
+   #oi{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:320px;
+    top: 1120px;
+    color: black;
+}
+#ao{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:650px;
+    top: 820px;
+    color: black;
+}
+#ae{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:650px;
+    top: 920px;
+    color: black;
+}
+#ea{
+    width: 200px;
+    height:30px;
+    position: absolute;
+    text-align: center;
+    left:650px;
+    top: 1020px;
+    color: black;
+   
+}
+   #oa{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:650px;
+    top: 1120px;
+    color: black;
+}
+#bo{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:950px;
+    top: 820px;
+    color: black;
+}
+#eb{
+    width: 200px;
+    height:30px;
+    position: absolute;
+    text-align: center;
+    left:950px;
+    top: 920px;
+    color: black;
+   
+}
+#be{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:950px;
+    top: 1020px;
+    color: black;
+   
+}
+   #ob{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    left:950px;
+    top: 1120px;
+    color: black;
+}
+#get{
+ position:absolute;
+ color: black;
+ left:800px;
+ top:1300px;
+ font-size: 40px;
+}
+#dow{
+    position:absolute;
+ color: black;
+ left:800px;
+ top:1390px;
+ font-size: 20px;
+}
+#apple{
+    position:absolute;
+    left:1000px;
+    top:1450px;
+    width: 170px;
+    height: 60px;
+    
+}
+#play{
+    height: 60px;
+    width: 170px;
+    position:absolute;
+    left:800px;
+    top:1450px;
+}
+#mob{
+    position: absolute;
+    left:220px;
+    top:1250px;
+    width:400px;
+    height: 400px;
+}
